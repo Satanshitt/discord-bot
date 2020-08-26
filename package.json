@@ -1,0 +1,27 @@
+{
+  "name": "discord-test",
+  "version": "1.0.0",
+  "description": "simple bot by satanshitt",
+  "main": "src/index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",    
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node /index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satanshitt/discord-bot-template.git"
+  },
+  "keywords": [
+    "template",
+    "discord",
+    "discord.js"
+  ],
+  "author": "Satanshitt",
+  "license": "UNLICENSED"
+}
