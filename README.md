@@ -1,3 +1,4 @@
+http://app.codacy.com/manual/Satanshitt/discord-bot-template/dashboard?token=HBSNezCs0W5aY0j
 # discord-bot-template
 A free-to-use discord.js bot template, with it you can start programming your first bot!
 
