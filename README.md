@@ -1,15 +1,18 @@
-# discord-bot
-A free-to-use discord.js bot template, with it you can start programming your first bot!
+<a href="https://top.gg/bot/717530708842643477" >
+  <img src="https://top.gg/api/widget/717530708842643477.svg" alt="Tohsaka" />
+</a>
+
+Tohsaka bot official repository!
 
 # Cloning
 To clone this repository, you will need [Git](https://git-scm.com/). Once the program is installed, proceed to use the following commands;
 
 ```
 # Clone the repository
-git clone https://github.com/Satanshitt/discord-bot.git
+git clone https://github.com/Satanshitt/tohsaka-bot.git
 
 # Go to the cloned repository
-cd discord-bot
+cd tohsaka-bot
 
 # Install packages
 npm install
