@@ -3,10 +3,10 @@ To clone this repository, you will need [Git](https://git-scm.com/). Once the pr
 
 ```
 # Clone the repository
-git clone https://github.com/Satanshitt/tohsaka-bot.git
+git clone https://github.com/Satanshitt/discord-bot.git
 
 # Go to the cloned repository
-cd tohsaka-bot
+cd discord-bot
 
 # Install packages
 npm install
