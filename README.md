@@ -13,4 +13,4 @@ npm install
 ```
 
 # Bot configuration
-To run the bot, you must open the `config.json` file and change the bot's token, in this file you can also modify the bot's prefix. After following these steps, you can run the bot, use the `npm start` command in the directory where the template is located.
+To run the bot, you must open the `data/config.json` file and change the bot's token, in this file you can also modify the bot's prefix. After following these steps, you can run the bot, use the `npm start` command in the directory where the template is located.
